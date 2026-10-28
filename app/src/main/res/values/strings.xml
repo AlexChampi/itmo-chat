@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:locale="ru">
+    <string name="app_name">Чаты</string>
+    <string name="chats_title">Чаты</string>
+    <plurals name="channels_count">
+        <item quantity="one">%d канал</item>
+        <item quantity="few">%d канала</item>
+        <item quantity="many">%d каналов</item>
+        <item quantity="other">%d канала</item>
+    </plurals>
+    <string name="channels_error">Не удалось загрузить чаты</string>
+    <string name="channels_empty">Чатов пока нет</string>
+    <string name="select_chat">Выберите чат</string>
+    <string name="select_chat_hint">Сообщения появятся здесь</string>
+    <string name="messages_error">Не удалось загрузить сообщения</string>
+    <string name="messages_empty">Сообщений пока нет</string>
+    <string name="chat_start">Это начало чата</string>
+    <string name="unsupported_message">Неподдерживаемое сообщение</string>
+    <string name="image_error">Не удалось загрузить картинку</string>
+    <string name="retry">Повторить</string>
+    <string name="cd_back">Назад к чатам</string>
+    <string name="cd_close_chat">Закрыть чат</string>
+    <string name="cd_close_image">Закрыть картинку</string>
+    <string name="cd_image">Картинка от %1$s</string>
+</resources>
