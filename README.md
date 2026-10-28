@@ -45,3 +45,12 @@ cd chat
 - `ChatsScreen.kt`, `MessagesScreen.kt`, `ImageScreen.kt`: экраны
 - `Common.kt`, `Theme.kt`: аватары, кнопки и токены One UI
 - `ChatApplication.kt`: общий OkHttp-клиент для Retrofit и Coil
+
+![](screenshots/1.jpg)
+![](screenshots/2.jpg)
+![](screenshots/3.jpg)
+![](screenshots/4.jpg)
+![](screenshots/5.jpg)
+![](screenshots/6.jpg)
+![](screenshots/7.jpg)
+![](screenshots/8.jpg)
